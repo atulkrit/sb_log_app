@@ -11,6 +11,7 @@ public class Application {
 		int i = 10;
 		int j = 20;
 		int age = 40;
+		int k = 30;
 	}
 
 }
